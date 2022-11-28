@@ -1,6 +1,6 @@
 # Snake with Ruby2D
 
-An implement of Snake using the Ruby2D library.
+An implementation of Snake using the Ruby2D library.
 
 https://user-images.githubusercontent.com/1397982/204140440-56209cdb-66c2-4f31-9d01-c32ebc8169ee.mov
 
